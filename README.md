@@ -2,4 +2,4 @@
 
 Monokai theme modified for PHP and CSS. PHP tags are coloured as well as id selectors in CSS.
 
-![A screenshot of your theme](https://raw.githubusercontent.com/JoelDickinson/monokai-php-css-syntax/master/screenshot.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/JoelDickinson/monokai-php-css-syntax/master/syntax.png)
