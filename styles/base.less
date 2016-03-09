@@ -163,7 +163,7 @@ atom-text-editor, :host {
 }
 
 .string {
-  color: @yellow;
+  color: @yellow !important;
 }
 
 .support {
@@ -176,6 +176,9 @@ atom-text-editor, :host {
   &.type {
     font-style: italic;
     color: @blue;
+    &.js {
+        color: @blue;
+    }
   }
 }
 
@@ -195,7 +198,7 @@ atom-text-editor, :host {
 }
 
 .function-call {
-    color: @lightPink;
+    color: @orange;
     .js {
         color: #fff;
     }

@@ -7,9 +7,32 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/JoelDickinson/monokai-php-css-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelDickinson/monokai-php-css-syntax.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "# monokai-php-css-syntax theme\n\nMonokai theme modified for PHP and CSS. PHP tags are coloured as well as id selectors in CSS.\n\n![A screenshot of your theme](https://raw.githubusercontent.com/JoelDickinson/monokai-php-css-syntax/master/syntax.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JoelDickinson/monokai-php-css-syntax/issues"
+  },
+  "homepage": "https://github.com/JoelDickinson/monokai-php-css-syntax#readme",
+  "_id": "monokai-php-css-syntax@0.1.6",
+  "_shasum": "aa5c69edde83da78e8b7b874391f5706f282962d",
+  "_resolved": "file:../d-11627-1059-1z0faug/package.tgz",
+  "_from": "../d-11627-1059-1z0faug/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
   }
 }
