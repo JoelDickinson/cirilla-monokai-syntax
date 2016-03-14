@@ -1,7 +1,7 @@
 {
   "name": "monokai-php-css-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Atom Monokai theme modified for php and css",
   "keywords": [
     "syntax",
