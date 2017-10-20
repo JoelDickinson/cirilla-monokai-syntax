@@ -1,7 +1,7 @@
 {
   "name": "cirilla-monokai-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A Monokai theme for HTML, CSS, SCSS and PHP",
   "keywords": [
     "syntax",
@@ -9,7 +9,9 @@
     "php",
     "css",
     "html",
-    "scss"
+    "scss",
+    "monokai",
+    "cirilla"
   ],
   "repository": "https://github.com/JoelDickinson/cirilla-monokai-syntax.git",
   "license": "MIT",
