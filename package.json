@@ -5,7 +5,11 @@
   "description": "A Monokai theme for HTML, CSS, SCSS and PHP",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "php",
+    "css",
+    "html",
+    "scss"
   ],
   "repository": "https://github.com/atom/cirilla-monokai-syntax",
   "license": "MIT",
