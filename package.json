@@ -9,7 +9,9 @@
     "php",
     "css",
     "html",
-    "scss"
+    "scss",
+    "monokai",
+    "cirilla"
   ],
   "repository": "https://github.com/JoelDickinson/cirilla-monokai-syntax.git",
   "license": "MIT",
