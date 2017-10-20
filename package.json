@@ -11,7 +11,7 @@
     "html",
     "scss"
   ],
-  "repository": "https://github.com/atom/cirilla-monokai-syntax",
+  "repository": "https://github.com/JoelDickinson/cirilla-monokai-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
